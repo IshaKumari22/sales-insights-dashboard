@@ -55,7 +55,7 @@ Top Customers and Products
 ![Sales Dashboard](Sales1.png)
 
 ### Top Products
-![Top Products](screenshots/top_products.png)
+![2017](Sales2.png)
 
 
 
