@@ -57,6 +57,9 @@ Top Customers and Products
 ### 2017
 ![2017](Sales2.png)
 
+### Oct(2017)
+![2017](Sales3.png)
+
 
 
 
