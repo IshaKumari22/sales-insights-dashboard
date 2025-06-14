@@ -50,7 +50,7 @@ Top Customers and Products
 
 
 Sales Dashboard:-
-(sales1.png)
+(Sales1.png)
 
 
 
