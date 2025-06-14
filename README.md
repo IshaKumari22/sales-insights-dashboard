@@ -54,7 +54,7 @@ Top Customers and Products
 ### Sales Dashboard Overview
 ![Sales Dashboard](Sales1.png)
 
-### Top Products
+### 2017
 ![2017](Sales2.png)
 
 
