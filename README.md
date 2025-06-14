@@ -49,8 +49,14 @@ Revenue Trend Over Time
 Top Customers and Products
 
 
-Sales Dashboard:-
-(Sales1.png)
+## 📊 Dashboard Preview
+
+### Sales Dashboard Overview
+![Sales Dashboard](Sales1.png)
+
+### Top Products
+![Top Products](screenshots/top_products.png)
+
 
 
 
